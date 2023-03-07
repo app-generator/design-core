@@ -46,7 +46,7 @@ const paths = {
         html: './src/pages/**/*.html',
         assets: './src/assets/**/*.*',
         partials: './src/partials/**/*.html',
-        scss: './src/scss',
+        scss: './src/assets/scss',
         node_modules: './node_modules/',
         vendor: './vendor'
     },

@@ -1,7 +1,9 @@
 node_modules/
 .temp/
 html&css/
+html/
 dist/
 *.zip
 docs/
 .DS_Store
+yarn.lock
